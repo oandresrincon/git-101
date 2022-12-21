@@ -1,6 +1,12 @@
 body{
     margin:0;
     font-family: Helvetica;
+    background-color: orange;
+}
+
+h1 {
+    font-weight: 100;
+    color: aliceblue;
 }
 
 #logo {
